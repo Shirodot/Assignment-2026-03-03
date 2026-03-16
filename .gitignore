@@ -1,0 +1,16 @@
+# 編譯產生的二進位檔案
+*.class
+*.jar
+*.war
+
+# 預設編譯輸出目錄
+bin/
+out/
+
+# VS Code 專屬設定 (選用，建議排除以保持環境純淨)
+.vscode/
+.history/
+
+# 作業系統產生的雜檔
+.DS_Store
+Thumbs.db
